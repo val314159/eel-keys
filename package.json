@@ -1,0 +1,7 @@
+{
+    "repository": "git+https://github.com/val314159/eel-keys", 
+    "version": "0.0.0", 
+    "name": "eel-keys", 
+    "license": "MIT", 
+    "description": "eel keys"
+}

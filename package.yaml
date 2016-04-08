@@ -1,0 +1,5 @@
+name: eel-keys
+description: eel keys
+version: 0.0.0
+repository: git+https://github.com/val314159/eel-keys
+license: MIT
